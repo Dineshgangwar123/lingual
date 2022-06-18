@@ -15,7 +15,8 @@
 <body>
     <section>
         <div  style="background: black;color: white;padding: 20px;font-size: 20px;" align="right">
-            <a style="margin-right:30px" href="moviedetails.php">Movie List</a> 
+            <a style="margin-right:30px" href="changestring.php">Transform Sentances</a> 
+            <a style="margin-right:30px" href="changestring.php">Movie List</a> 
             <a href="index.php">Add Movie</a>
               
         </div>
